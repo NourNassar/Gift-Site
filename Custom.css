@@ -66,7 +66,7 @@ body {
     width: 400px;
     border: 6px solid #FFF;
     border-radius: 5px;
-    background-image: url('../images/gift.avif');
+    background-image: url('gift.avif');
     /* background-image: linear-gradient(red, green, blue); */
     background-size: cover;
     transition: .3s;
@@ -91,21 +91,21 @@ body {
     width: 400px;
     border: 6px solid #FFF;
     border-radius: 5px;
-    background-image: url('../images/gift.avif');
+    background-image: url('gift.avif');
     background-size: cover;
     transition: .3s;
 } */
 
 #gift-img-d:hover {
-    background-image: url('../images/universe.avif');
+    background-image: url('universe.avif');
 }
 
 #gift-img-ginuas:hover {
-    background-image: url('../images/space.jpg');
+    background-image: url('space.jpg');
 }
 
 #gift-img-r:hover {
-    background-image: url('../images/heic2002a_625.jpg');
+    background-image: url('heic2002a_625.jpg');
 }
 
 
